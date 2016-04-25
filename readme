@@ -1,0 +1,5 @@
+Enter f# yebvas
+
+## R script to create a tidy data set from the Human Activity Recognition Using Smartphones Dataset
+
+The run_analysis.R script downloads the Human Activity Recognition Using Smartphones Dataset, compiles the data on means and standard devivations into a single dataframe, and renames the variables
